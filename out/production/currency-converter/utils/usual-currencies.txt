@@ -29,6 +29,6 @@ de las divisas y el monto a convertir. En la parte
 superior se encuentran las divisas mas reconocidas
 seguidas por algunas populares en américa.
 Si no conoces el código, no dudes en introducir
-la palabra 'codes' seguida de enter para ver la
+la palabra 'code' seguida de enter para ver la
 lista completa.
 --------------------------------------------------
