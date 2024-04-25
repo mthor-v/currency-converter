@@ -1,0 +1,34 @@
+==================================================
+ _____                           _
+/  __ \                         | |
+| /  \/ ___  _ ____   _____ _ __| |_ ___ _ __
+| |    / _ \| '_ \ \ / / _ \ '__| __/ _ \ '__|
+| \__/\ (_) | | | \ V /  __/ |  | ||  __/ |
+ \____/\___/|_| |_|\_/ \___|_|   \__\___|_|
+==================================================
+Cod.  Divisa                    País
+--------------------------------------------------
+AUD	  Australian Dollar	        Australia
+CAD	  Canadian Dollar	        Canada
+EUR	  Euro	                    European Union
+GBP	  Libra Sterling	        Reino Unido
+JPY	  Japanese Yen	            Japan
+USD	  United States Dollar	    United States
+--------------------------------------------------
+ARS	  Argentine Peso	        Argentina
+BRL	  Brazilian Real	        Brazil
+COP	  Colombian Peso	        Colombia
+MXN	  Mexican Peso	            Mexico
+PEN	  Peruvian Sol	            Peru
+VES	  Bolívar Soberano	        Venezuela
+--------------------------------------------------
+!Bienvenido!
+Ahora podrás realizar la conversión de divisas de
+manera simple, solo debes introducir los códigos
+de las divisas y el monto a convertir. En la parte
+superior se encuentran las divisas mas reconocidas
+seguidas por algunas populares en américa.
+Si no conoces el código, no dudes en introducir
+la palabra 'codes' seguida de enter para ver la
+lista completa.
+--------------------------------------------------
